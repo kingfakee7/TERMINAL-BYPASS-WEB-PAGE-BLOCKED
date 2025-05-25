@@ -1,9 +1,13 @@
-# 🚧 TERMINAL BYPASS - WEB PAGE BLOCKED! 💥
+# 🖥️ TERMINAL BYPASS - WEB PAGE BLOCKED! 💥
 
 ![status](https://img.shields.io/badge/status-active-brightgreen)
-![license](https://img.shields.io/badge/license-MIT-blue)
-![made-by](https://img.shields.io/badge/made%20by-KingFakee-red)
 ![php](https://img.shields.io/badge/built%20with-PHP-orange)
+![license](https://img.shields.io/badge/license-MIT-blue)
+![author](https://img.shields.io/badge/author-KingFakee-red)
+
+---
+
+**TERMINAL BYPASS** adalah web-based command executor (terminal) berbasis PHP yang memungkinkan kamu menjalankan perintah sistem langsung dari browser, bahkan jika halaman web diblokir oleh WAF, firewall, atau ISP.
 
 ---
 
@@ -16,31 +20,16 @@
 
 ---
 
+## ⚙️ Fitur Utama
 
-## ❓ Apa Itu
-
-**TERMINAL BYPASS WEB PAGE BLOCKED!** adalah web terminal berbasis PHP yang memungkinkan kamu menjalankan perintah sistem langsung dari browser — meskipun halaman diblokir oleh:
-
-- 🔒 **Cloudflare / Access Denied**
-- 🛡️ **WAF (Web Application Firewall)**
-- 🚫 **Akamai, ModSecurity, atau ISP Block**
-- 🔗 **Redirects dan halaman interstitial lainnya**
-
-Alat ini cocok untuk debugging, eksplorasi sistem, dan penggunaan pada sistem milik sendiri.
+✨ Eksekusi perintah via `proc_open()`  
+🔐 Input command di-*encode* dengan base64  
+🧪 Menampilkan `stdout`, `stderr`, dan `exit code`  
+🕶️ Payload obfuscated `eval(gzinflate(base64_decode(...)))` *(opsional, bisa dihapus)*  
+🎨 Tampilan antarmuka sederhana dan ringan  
+🌐 Bisa dijalankan di hampir semua shared hosting  
 
 ---
-
-## ⚙️ Fitur Unggulan
-
-✅ Interface ringan dan responsif  
-✅ Perintah dienkode dengan **base64** sebelum dikirim  
-✅ Eksekusi perintah via `proc_open()`  
-✅ Output `stdout`, `stderr`, dan `exit code`  
-✅ Disertai payload terenkripsi `eval + gzinflate + base64` *(opsional)*  
-✅ Bebas instalasi — hanya upload dan jalankan
-
----
-
 ## 📸 Tampilan
 
 ```text
