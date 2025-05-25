@@ -41,3 +41,16 @@ Masukkan Perintah CMD:
 [___________ id ____________] [Jalankan]
 Output:
 uid=33(www-data) gid=33(www-data) groups=33(www-data)
+
+
+---
+
+## ⚠️ PERINGATAN & DISCLAIMER
+
+> 🚨 **PERINGATAN: Tools ini hanya untuk penggunaan legal & edukasi.**  
+> ❌ **Jangan gunakan di server yang bukan milikmu atau tanpa izin eksplisit.**  
+> 🧑‍⚖️ **Segala bentuk penyalahgunaan adalah tanggung jawab pengguna sepenuhnya.**  
+> 🛡️ **Pembuat tidak bertanggung jawab atas segala kerusakan, kerugian, atau pelanggaran hukum yang timbul dari penggunaan tool ini.**
+
+---
+
