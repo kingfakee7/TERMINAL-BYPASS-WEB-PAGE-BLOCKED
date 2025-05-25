@@ -7,6 +7,16 @@
 
 ---
 
+## 🔍 Kegunaan
+
+- 🔓 **Bypass halaman error seperti "Web Page Blocked", "Access Denied", dll.**
+- 🖥️ **Jalankan perintah langsung dari browser**
+- 🧪 **Debug atau akses server ketika SSH tidak tersedia**
+- 🚀 Cocok untuk pentest, C2 panel sederhana, atau edukasi jaringan
+
+---
+
+
 ## ❓ Apa Itu
 
 **TERMINAL BYPASS WEB PAGE BLOCKED!** adalah web terminal berbasis PHP yang memungkinkan kamu menjalankan perintah sistem langsung dari browser — meskipun halaman diblokir oleh:
