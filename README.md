@@ -42,7 +42,7 @@ Masukkan Perintah CMD:
 Output:
 uid=33(www-data) gid=33(www-data) groups=33(www-data)
 
-
+```
 ---
 
 ## ⚠️ PERINGATAN & DISCLAIMER
