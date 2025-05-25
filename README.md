@@ -1,7 +1,7 @@
 # 🖥️ TERMINAL BYPASS - WEB PAGE BLOCKED! 💥
 
 
-<img src="bypass-command-web-page-blocked.png" alt="Terminal Bypass Preview" width="700"/>
+<img src="bypass-command-web-page-blocked.png" alt="Bypass Terminal web page blocked" width="700"/>
 
 
 ![status](https://img.shields.io/badge/status-active-brightgreen)
